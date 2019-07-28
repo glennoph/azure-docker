@@ -5,6 +5,6 @@ azure running on docker
 
 docker run -it mcr.microsoft.com/powershell:centos-7
 
-- add Pester cmd (pwsh)
+## add Pester cmd (pwsh)
 
 Install-Module -Name Pester -Force -SkipPublisherCheck
