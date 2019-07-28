@@ -7,4 +7,4 @@ docker run -it mcr.microsoft.com/powershell:centos-7
 
 - add Pester cmd (pwsh)
 
-Install-Module -Name Pester -Force -SkipPublishercheck
+Install-Module -Name Pester -Force -SkipPublisherCheck
